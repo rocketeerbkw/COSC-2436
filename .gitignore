@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+
+# Dev-C++ Project files
+Makefile.win
+*.dev
+*.layout
+
+# Compiled programs
+*.exe
