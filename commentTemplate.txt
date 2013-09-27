@@ -1,0 +1,13 @@
+/**
+ * Author:            Brandon Williams
+ * Project Number:    <#>
+ * Course:            Data Structures
+ * Due Date:          <date>
+ *
+ * <program description>
+ *
+ * This is free and unencumbered software released into the public domain.
+ *
+ * You should have received a full copy of the unlicense along with this
+ * software. If not, see <http://unlicense.org/>.
+ */
