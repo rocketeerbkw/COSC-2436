@@ -1,0 +1,27 @@
+Display the binary representation of a:
+C)har, S)hort integer, F)loat or Q)uit c
+Enter a character: A
+The binary representation of A is: 0100 0001
+
+C)har, S)hort integer, F)loat or Q)uit s
+Enter a short integer: 22
+The binary representation of 22 is: 0000 0000 0001 0110
+
+C)har, S)hort integer, F)loat or Q)uit s
+Enter a short integer: -22
+The binary representation of -22 is: 1111 1111 1110 1010
+
+C)har, S)hort integer, F)loat or Q)uit f
+Enter a floating point number: 6.625
+The binary representation of 6.625 is: 0100 0000 1101 0100 0000 0000 0000 0000
+
+C)har, S)hort integer, F)loat or Q)uit q
+Press any key to continue . . .
+
+Does your compiler represent integers using 2's compliment notation?
+ - Yes, as seen by looking at the binary forms of 22 and -22.
+
+What is the bit pattern that represents the exponent of 6.625?
+ - 1000 0001
+What exponent does this represent in decimal?
+ - 2, because 10000001 is 129, subtract 127 to get the exponent.
