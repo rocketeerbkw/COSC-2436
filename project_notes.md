@@ -1,9 +1,9 @@
-Program Notes
+Project Notes
 =============
 
-Notes and grades for specific programs.
+Notes and grades for each project.
 
-[Program 1](Program 1) - 100/100
+[Project 1](Project 1) - 100/100
 ---------
 
 1.  It is best not to mix system header files that require the std namespace
