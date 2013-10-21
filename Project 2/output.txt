@@ -1,0 +1,25 @@
+Equation of q1 is 1x^2 + 0x + 1
+Equation of q2 is 1x^2 + 0x + 0
+Equation of q3 is 1x^2 + 3x + 0
+Equation of q1 + q3 is 2x^2 + 3x + 1
+Equation of q1 * 7 is 7x^2 + 0x + 7
+
+Evaluating q1 through q5 with x = 2:
+q1 = 5
+q2 = 4
+q3 = 10
+q4 = 15
+q5 = 35
+
+Number of real roots:
+q1 = 0
+q2 = 1
+q3 = 2
+q4 = 2
+q5 = 0
+
+Roots for
+q2: -0 and 0
+q3: -3 and 0
+q4: -1 and -0.5
+Press any key to continue . . .
