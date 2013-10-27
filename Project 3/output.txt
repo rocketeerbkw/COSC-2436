@@ -1,0 +1,113 @@
+I have initialized an empty list (capacity 2) of integers.
+
+The following choices are available:
+ A   Add a number of random integers to end of list
+ C   Change the capacity of the list using resize( )
+ E   Print the result from the empty( ) function
+ P   Print a copy of the entire list
+ I   Insert a new number with the insert(...) function
+ R   Remove a number with the erase( ) function
+ Q   Quit this test program
+Enter choice: c
+Resize list to what? 5
+
+The following choices are available:
+ A   Add a number of random integers to end of list
+ C   Change the capacity of the list using resize( )
+ E   Print the result from the empty( ) function
+ P   Print a copy of the entire list
+ I   Insert a new number with the insert(...) function
+ R   Remove a number with the erase( ) function
+ Q   Quit this test program
+Enter choice: e
+List is empty? true
+
+The following choices are available:
+ A   Add a number of random integers to end of list
+ C   Change the capacity of the list using resize( )
+ E   Print the result from the empty( ) function
+ P   Print a copy of the entire list
+ I   Insert a new number with the insert(...) function
+ R   Remove a number with the erase( ) function
+ Q   Quit this test program
+Enter choice: i
+What integer should I input? 10
+What position should I insert it? 0
+
+The following choices are available:
+ A   Add a number of random integers to end of list
+ C   Change the capacity of the list using resize( )
+ E   Print the result from the empty( ) function
+ P   Print a copy of the entire list
+ I   Insert a new number with the insert(...) function
+ R   Remove a number with the erase( ) function
+ Q   Quit this test program
+Enter choice: e
+List is empty? false
+
+The following choices are available:
+ A   Add a number of random integers to end of list
+ C   Change the capacity of the list using resize( )
+ E   Print the result from the empty( ) function
+ P   Print a copy of the entire list
+ I   Insert a new number with the insert(...) function
+ R   Remove a number with the erase( ) function
+ Q   Quit this test program
+Enter choice: p
+List (size 1): 10
+
+The following choices are available:
+ A   Add a number of random integers to end of list
+ C   Change the capacity of the list using resize( )
+ E   Print the result from the empty( ) function
+ P   Print a copy of the entire list
+ I   Insert a new number with the insert(...) function
+ R   Remove a number with the erase( ) function
+ Q   Quit this test program
+Enter choice: a
+How many integers should I add to the end of the list? 10
+
+The following choices are available:
+ A   Add a number of random integers to end of list
+ C   Change the capacity of the list using resize( )
+ E   Print the result from the empty( ) function
+ P   Print a copy of the entire list
+ I   Insert a new number with the insert(...) function
+ R   Remove a number with the erase( ) function
+ Q   Quit this test program
+Enter choice: p
+List (size 11): 10  42  486  341  527  189  740  490  388  989  489
+
+The following choices are available:
+ A   Add a number of random integers to end of list
+ C   Change the capacity of the list using resize( )
+ E   Print the result from the empty( ) function
+ P   Print a copy of the entire list
+ I   Insert a new number with the insert(...) function
+ R   Remove a number with the erase( ) function
+ Q   Quit this test program
+Enter choice: r
+Erase integer at what position? 0
+
+The following choices are available:
+ A   Add a number of random integers to end of list
+ C   Change the capacity of the list using resize( )
+ E   Print the result from the empty( ) function
+ P   Print a copy of the entire list
+ I   Insert a new number with the insert(...) function
+ R   Remove a number with the erase( ) function
+ Q   Quit this test program
+Enter choice: p
+List (size 10): 42  486  341  527  189  740  490  388  989  489
+
+The following choices are available:
+ A   Add a number of random integers to end of list
+ C   Change the capacity of the list using resize( )
+ E   Print the result from the empty( ) function
+ P   Print a copy of the entire list
+ I   Insert a new number with the insert(...) function
+ R   Remove a number with the erase( ) function
+ Q   Quit this test program
+Enter choice: q
+Test program ended.
+Press any key to continue . . .
